@@ -1,0 +1,101 @@
+body {
+  margin: 0;
+  line-height: normal;
+  font-family: 'Varela Round', sans;
+}
+
+.nav-container {
+  font-family: 'Montserrat', sans;
+  background-color: darkcyan;
+  padding: 5px;
+}
+
+.nav-container {
+  position: fixed;
+  transition: 0.4s;
+  top: -50px;
+  width: 100%;
+}
+
+.nav-container:hover {
+  top: 0px;
+}
+
+.nav-list-content {
+  vertical-align: baseline;
+  line-height: 2px;
+  display: inline-block;
+  margin-left: 15px;
+  margin-right: 15px;
+}
+
+.nav-link {
+  text-decoration: none;
+}
+
+.nav-link:hover {
+  color: #40C2A6;
+}
+
+.jumbotron {
+  background-color: #40C2A6;
+  vertical-align: middle;
+  height: 400px;
+  padding: 5px;
+  box-sizing: border-box;
+}
+
+.jumbotron-content {
+  margin: 0px auto;
+  max-width: 1200px;
+  padding: 100px 30px; 
+}
+
+.page-title {
+  font-family: 'Righteous', 'Montserrat';
+  text-decoration: none;
+  font-variant: normal;
+  vertical-align: middle;
+}
+
+#page-main-title {
+  font-size: 52px;
+}
+
+/* Body Content (i.e, Welcome, Latest Project, and Subscribe) */
+
+#welcome-p {
+ width: 650px;
+ margin: auto;
+}
+
+.main-content-box {
+  padding-top: 5px;
+  padding-left: 5px;
+  padding-right: 5px;
+  padding-bottom: 15px;
+}
+
+.main-content-green {
+  background-color: #64C240;
+}
+
+.main-content-blue {
+  background-color: #409EC2;
+}
+
+.main-content-header {
+  font-family: 'Montserrat', 'Righteous';
+}
+
+.contacts-list {
+  list-style-type: none;
+}
+
+.contacts {
+  float: left;
+}
+
+#latest-project-image {
+  border-radius: 15px;
+}
