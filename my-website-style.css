@@ -99,3 +99,8 @@ body {
 #latest-project-image {
   border-radius: 15px;
 }
+
+.footer {
+  background-color: #40C2A6;
+  padding: 5px;
+}
