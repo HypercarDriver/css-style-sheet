@@ -1,2 +1,7 @@
 # css-style-sheet
-All my CSS file. Just made `awk888style.css`!
+
+## Setup:
+```html
+  <!-- You will need this. -->
+  <link href="https://cdn.rawgit.com/awk888/css-style-sheet/master/awk888style.css" rel="stylesheet" type="text/css" />
+```
